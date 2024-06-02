@@ -2,9 +2,10 @@ C:\Users\Daniil\Desktop\C#\MontebankGame\MontebankGame\bin\Debug\MontebankGame.e
 C:\Users\Daniil\Desktop\C#\MontebankGame\MontebankGame\bin\Debug\MontebankGame.exe
 C:\Users\Daniil\Desktop\C#\MontebankGame\MontebankGame\bin\Debug\MontebankGame.pdb
 C:\Users\Daniil\Desktop\C#\MontebankGame\MontebankGame\obj\Debug\MontebankGame.csproj.AssemblyReference.cache
-C:\Users\Daniil\Desktop\C#\MontebankGame\MontebankGame\obj\Debug\MontebankGame.Montebank.resources
 C:\Users\Daniil\Desktop\C#\MontebankGame\MontebankGame\obj\Debug\MontebankGame.Properties.Resources.resources
 C:\Users\Daniil\Desktop\C#\MontebankGame\MontebankGame\obj\Debug\MontebankGame.csproj.GenerateResource.cache
 C:\Users\Daniil\Desktop\C#\MontebankGame\MontebankGame\obj\Debug\MontebankGame.csproj.CoreCompileInputs.cache
 C:\Users\Daniil\Desktop\C#\MontebankGame\MontebankGame\obj\Debug\MontebankGame.exe
 C:\Users\Daniil\Desktop\C#\MontebankGame\MontebankGame\obj\Debug\MontebankGame.pdb
+C:\Users\Daniil\Desktop\C#\MontebankGame\MontebankGame\obj\Debug\MontebankGame.Form1.resources
+C:\Users\Daniil\Desktop\C#\MontebankGame\MontebankGame\obj\Debug\MontebankGame.Form2.resources
