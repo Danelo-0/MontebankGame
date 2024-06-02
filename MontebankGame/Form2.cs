@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -13,6 +14,7 @@ namespace MontebankGame
 {
     public partial class Form2 : Form
     {
+        private SoundPlayer player;
 
         public CardController cardController = new CardController();
 
@@ -43,6 +45,9 @@ namespace MontebankGame
         {
             InitializeComponent();
             this.form1 = form1;
+
+            player = new SoundPlayer("C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\Music\\1.wav");
+            player.PlayLooping();
 
             labelBalance.Text = cardController.balance.ToString();
 
@@ -155,27 +160,31 @@ namespace MontebankGame
 
             //cardController.GetLastCard(cardDeck, testL);
 
-            if (cardLayout[0].statusChekCard)
+            if (cardLayout[0].statusChekCard && cardLayout[1].statusChekCard)
             {
-                labelWinOrLose.Text = "Вы выиграли!";
+                labelWinOrLose.Text = $"Вы выиграли {cardLayout[0].sumBet * 2 + cardLayout[1].sumBet * 2} монет!";
+
+                cardController.balance += cardLayout[0].sumBet * 2 + cardLayout[1].sumBet * 2;           
+            }
+            else if (cardLayout[0].statusChekCard)
+            {
+                labelWinOrLose.Text = $"Вы выиграли {cardLayout[0].sumBet * 2} монет!";
 
                 cardController.balance += cardLayout[0].sumBet * 2;
-                cardLayout[0].sumBet = 0;            
-
             }
             else if(cardLayout[1].statusChekCard)
             {
-                labelWinOrLose.Text = "Вы выиграли!";
+                labelWinOrLose.Text = $"Вы выиграли {cardLayout[1].sumBet * 2} монет!";
 
                 cardController.balance += cardLayout[1].sumBet * 2;
-                cardLayout[1].sumBet = 0;
             }
             else 
             {
-                labelWinOrLose.Text = "Вы проиграли!";
-                cardLayout[0].sumBet = 0;
-                cardLayout[1].sumBet = 0;
+                labelWinOrLose.Text = "Вы проиграли!";     
             }
+
+            cardLayout[0].sumBet = 0;
+            cardLayout[1].sumBet = 0;
 
             labelBalance.Text = cardController.balance.ToString();
             labelSumBetTop.Text = "0";
