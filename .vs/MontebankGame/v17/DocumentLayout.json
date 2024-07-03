@@ -7,8 +7,32 @@
       "RelativeMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|solutionrelative:montebankgame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\montebankgame\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|solutionrelative:montebankgame\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\montebankgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|solutionrelative:montebankgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\montebankgame\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|solutionrelative:montebankgame\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\montebankgame\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|solutionrelative:montebankgame\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\montebankgame\\layout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|solutionrelative:montebankgame\\layout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\montebankgame\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|solutionrelative:montebankgame\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\montebankgame\\betcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|solutionrelative:montebankgame\\betcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\montebankgame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -17,30 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\montebankgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|solutionrelative:montebankgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\montebankgame\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|solutionrelative:montebankgame\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\montebankgame\\layout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|solutionrelative:montebankgame\\layout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\montebankgame\\betcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|solutionrelative:montebankgame\\betcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\montebankgame\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|solutionrelative:montebankgame\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\montebankgame\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|solutionrelative:montebankgame\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\montebankgame\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D501AF4-0BE5-4004-8F49-5C1D04DC6580}|MontebankGame\\MontebankGame.csproj|solutionrelative:montebankgame\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Bet.cs",
               "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\MontebankGame\\Bet.cs",
               "RelativeDocumentMoniker": "MontebankGame\\Bet.cs",
@@ -66,19 +66,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BetController.cs",
               "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\MontebankGame\\BetController.cs",
               "RelativeDocumentMoniker": "MontebankGame\\BetController.cs",
               "ToolTip": "C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\MontebankGame\\BetController.cs",
               "RelativeToolTip": "MontebankGame\\BetController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T11:30:25.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\MontebankGame\\Card.cs",
               "RelativeDocumentMoniker": "MontebankGame\\Card.cs",
@@ -90,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CardController.cs",
               "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\MontebankGame\\CardController.cs",
               "RelativeDocumentMoniker": "MontebankGame\\CardController.cs",
               "ToolTip": "C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\MontebankGame\\CardController.cs",
               "RelativeToolTip": "MontebankGame\\CardController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T10:02:45.441Z"
             },
@@ -108,7 +108,7 @@
               "RelativeDocumentMoniker": "MontebankGame\\Form2.cs",
               "ToolTip": "C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\MontebankGame\\Form2.cs",
               "RelativeToolTip": "MontebankGame\\Form2.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAAAAAAAA",
+              "ViewState": "AQIAANUAAAAAAAAAAAAiwAsBAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T09:39:33.941Z",
               "EditorCaption": ""
@@ -127,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Form2.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\MontebankGame\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "MontebankGame\\Form2.Designer.cs",
@@ -139,30 +139,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\MontebankGame\\Form2.cs",
               "RelativeDocumentMoniker": "MontebankGame\\Form2.cs",
-              "ToolTip": "C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\MontebankGame\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "MontebankGame\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\MontebankGame\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "MontebankGame\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T09:20:45.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\MontebankGame\\Form1.cs",
               "RelativeDocumentMoniker": "MontebankGame\\Form1.cs",
               "ToolTip": "C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\MontebankGame\\Form1.cs",
               "RelativeToolTip": "MontebankGame\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T17:47:45.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\C#\\MontebankGame\\MontebankGame\\Form1.cs",
               "RelativeDocumentMoniker": "MontebankGame\\Form1.cs",
